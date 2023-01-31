@@ -1,6 +1,7 @@
 # LA1400
 ROBOCODE
 Code:
+```java
 package AM;
 import robocode.*;
 import java.lang.Math;
@@ -53,3 +54,4 @@ public class ManserAlberto_REEEEE extends JuniorRobot{
 		ahead(60);
 	}	
 }
+```
